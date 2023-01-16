@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+textarea{
+    width: 70%!important;
+    position:relative;
+    left: 15%;
+    background-color: #fffffc !important;
+}
+
+textarea:focus{
+    outline: 0;
+    border: 1px solid !important;
+}
+
+
+#option{
+    width: 70%!important;
+    position:relative;
+    left: 15%;
+    margin-bottom: 8px !important;;
+}
+
+button{
+    position:relative;
+    left: 15%; 
+    background-color: #370617 !important;  
+}
+
+li:hover{
+    background-color: rgb(161, 218, 253) !important;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+
+input:focus{
+    outline: 0;
+    border: 1px solid !important;
+}
+
+#correctAnswer{
+    width: 70%!important;
+    position:relative;
+    left: 15%;
+    background: #08b000;
+}
+
+li{
+    width: 70%!important;
+    position:relative;
+    left: 15%;
+    background-color: aliceblue !important;
+
+}
